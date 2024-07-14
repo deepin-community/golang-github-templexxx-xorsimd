@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-templexxx-xorsimd (0.4.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Add patch to fix FTBFS/debci on !amd64 archs
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nilesh Patra <nilesh@debian.org>  Sat, 06 Aug 2022 11:02:31 +0530
+
+golang-github-templexxx-xorsimd (0.4.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1016676)
+
+ -- Nilesh Patra <nilesh@debian.org>  Fri, 05 Aug 2022 08:45:09 +0530
